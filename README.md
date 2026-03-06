@@ -128,7 +128,7 @@ Press Enter
 
 ## ⚙️ Configuration
 
-Inside `qwen_helper.py` you can change:
+Inside `ShadowScribe.py` you can change:
 
 ```python
 MODEL = "qwen2.5-coder:7b"   # Change AI model here
